@@ -3,7 +3,7 @@
   <name>РаботаСТелеграммСервер</name>
   <synonym>
     <key>ru</key>
-    <value>Работа с телеграмм сервер</value>
+    <value>Работа с телеграмм</value>
   </synonym>
   <server>true</server>
   <serverCall>true</serverCall>
